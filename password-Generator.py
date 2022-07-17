@@ -1,7 +1,7 @@
 import random
 import string
-#Determines how long the password will be
 
+#Determines how long the password will be
 pl = int(input("How long do you want your password to be?"))
 pw = []
 

@@ -1,7 +1,7 @@
 # Basic-Code
-This is my basic code library which mainly consists of simpl python projects.
+This is my basic code library which mainly consists of simple python projects.
 
 Includes:
 Random number generator,
 Password generator,
-simple game based on randomness,
+Simple game based on randomness,

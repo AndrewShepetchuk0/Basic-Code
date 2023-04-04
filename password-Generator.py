@@ -2,7 +2,7 @@ import random
 import string
 
 #Determines how long the password will be
-pl = int(input("How long do you want your password to be?"))
+pl = random.randint(0, 64)
 pw = []
 
 #Creates a list of characters for the password generator to choose from

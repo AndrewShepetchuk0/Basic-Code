@@ -1,3 +1,3 @@
 import random
-#Prints random password
+#Prints random number
 print(random.randint(0, 48))

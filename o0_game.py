@@ -30,3 +30,4 @@ if text == 'o' and num1 == 0:
     fp.write('''
 ''')
     fp.write('nice')
+    fp.close()

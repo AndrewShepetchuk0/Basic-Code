@@ -3,7 +3,7 @@ i = 0.0
 
 #For loop
 for i in range(100):
-	#THis could be better... probably
+	#This could be better... probably
 	i = i+1
 	if i % 3 == 0:
 		print(i, "Fizz")

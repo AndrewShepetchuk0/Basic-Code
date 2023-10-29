@@ -14,5 +14,6 @@ for i in range(100):
 	#Prints the number and if it's divisible by 7, prints Fuzz
 	if i % 7 == 0:
 		print(i, "Fuzz")
+	#Just prints the number by default
 	else:
 		print(i)

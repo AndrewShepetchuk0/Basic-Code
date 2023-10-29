@@ -1,3 +1,4 @@
+#Variable for the for loop
 i = 0.0
 
 for i in range(100):

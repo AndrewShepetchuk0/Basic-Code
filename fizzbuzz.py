@@ -5,6 +5,7 @@ i = 0.0
 for i in range(100):
 	#This could be better... probably
 	i = i+1
+	#Prints the number and if it's divisible by 3, prints Fizz
 	if i % 3 == 0:
 		print(i, "Fizz")
 	if i % 5 == 0:

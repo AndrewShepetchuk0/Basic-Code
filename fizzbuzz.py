@@ -11,7 +11,7 @@ for i in range(100):
 	#Prints the number and if it's divisible by 5, prints Buzz
 	if i % 5 == 0:
 		print(i, "Buzz")
-	#Prints the number and if it's divisible by 7, prints Fuzz
+	#Prints the number and if it's divisible by 7, prints Fuzz. Made as an additional condition to the original fizz-buzz
 	if i % 7 == 0:
 		print(i, "Fuzz")
 	#Just prints the number by default

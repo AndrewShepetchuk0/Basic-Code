@@ -8,6 +8,7 @@ for i in range(100):
 	#Prints the number and if it's divisible by 3, prints Fizz
 	if i % 3 == 0:
 		print(i, "Fizz")
+	#Prints the number and if it's divisible by 5, prints Buzz
 	if i % 5 == 0:
 		print(i, "Buzz")
 	if i % 7 == 0:

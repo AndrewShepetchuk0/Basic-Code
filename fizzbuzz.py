@@ -1,6 +1,7 @@
 #Variable for the for loop
 i = 0.0
 
+#For loop
 for i in range(100):
 	i = i+1
 	if i % 3 == 0:

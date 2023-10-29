@@ -8,3 +8,5 @@ Simple game based on randomness,
 Fizz Buzz activity
 
 Small code snippets made quickly
+
+Now with comments
